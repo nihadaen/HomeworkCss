@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color:cadetblue;
+    width: 100vw;
+    height: 15vh;
+}
+header h1{
+    margin-left: 5vw;
+    padding-top: 5.5vh;
+    color: white;
+}
+header h4{
+    margin-left: 5vw;
+    padding-top: 1vh;
+    color: white;
+}
+.box{
+    margin: 10vh auto 0vh auto;
+    background-color: green;
+    color: black;
+    width: 35vw;
+    height: 20vh;
+    border: 5px solid darkgreen;
+
+}
+.secondBox{
+    margin: 5vh auto;
+    background-color: red;
+    border: 5px solid darkred;
+    color: black;
+    width: 25vw;
+    height: 15vh;
+    border-radius: 7%;
+    color: white;
+}
+.secondBox h3{
+    padding-top: 5vh;
+    text-align: center;
+}
+.secondBox h2{
+    padding-top: 2vh;
+    text-align: center;
+}
+.main{
+    width: 25vw;
+    padding-top: 5vh;
+    padding-left: 5vw;
+}
+.ending{
+    float: right;
+    padding-top: 2vh;
+    padding-right: 2vw;
+}
+.mainCnt{
+    width: 100vw;
+    height: 23.1vh;
+    background-color:slategrey;
+}
+.mainCnt h2{
+    padding-top: 5vh;
+    color: white;
+    padding-left: 5vw;
+}
+.mainCnt p{
+    padding-top: 3vh;
+    color: white;
+    padding-left: 5vw;
+}
+.last{
+    width: 100vw;
+    height: 4vh;
+    background-color: black;
+    color: cadetblue;
+    padding-top: 2vh;
+    text-align: center;
+}
+a{
+    color: white;
+}
